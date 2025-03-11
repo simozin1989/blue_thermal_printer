@@ -1,0 +1,1 @@
+C:\flutter_Projects\blue_thermal_printer\example\build\app\intermediates\cxx\Debug\442q5e60\obj\arm64-v8a

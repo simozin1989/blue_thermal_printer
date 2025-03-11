@@ -8,7 +8,8 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.5.4'
+     
+
     }
 }
 
@@ -22,6 +23,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace "id.kakzaki.blue_thermal_printer"
     compileSdkVersion 31
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
